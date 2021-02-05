@@ -10,6 +10,8 @@ public class baseTest {
 		System.out.println("Akshay");
 		System.out.println("Ankita");
 		System.out.println("Pooja");
+		System.out.println("Arati");
+		System.out.println("Sneha");
 	}
 
 }
