@@ -8,6 +8,8 @@ public class baseTest {
 	public void Drama()
 	{
 		System.out.println("Akshay");
+		System.out.println("Ankita");
+		System.out.println("Pooja");
 	}
 
 }
