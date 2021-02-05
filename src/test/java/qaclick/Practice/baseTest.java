@@ -12,6 +12,8 @@ public class baseTest {
 		System.out.println("Pooja");
 		System.out.println("Arati");
 		System.out.println("Sneha");
+		System.out.println("Pinki");
+		System.out.println("Heena");
 	}
 
 }
